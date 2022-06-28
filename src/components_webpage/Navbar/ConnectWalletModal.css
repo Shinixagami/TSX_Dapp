@@ -1,0 +1,62 @@
+
+#modalShow{
+
+  position: fixed;
+  display: absolute;
+  z-index: 1000;
+
+  background-color: brown;
+  
+  &:hover{
+  }
+
+  /* button press */
+  &:active{
+  }
+
+  
+}
+
+
+#walletConnectModalContainer{
+
+  position: fixed;
+  display: none;
+
+  z-index: 1000;
+  
+  width: 100%;
+  height: 100%;
+
+  transition: all 2s ease-out;
+
+
+  &:hover{
+  }
+
+  /* button press */
+  &:active{
+  }
+
+  
+}
+
+
+#walletConnectModalBtn{
+  
+  &:hover{
+
+  }
+
+  /* button press */
+  &:active{
+
+    
+  }
+
+  
+}
+
+
+  
+    
