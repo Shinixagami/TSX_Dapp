@@ -126,6 +126,7 @@ const Modal = ({ handleClose, text }) => {
                 
                 <h1>Are you ready?</h1>
                 <p>Get exclusive access to our next launch.</p>
+                <p>Get exclusive access to our next launch.</p>
 
 
                 <ModalBtn>
